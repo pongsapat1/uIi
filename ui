@@ -3623,3 +3623,5 @@
 		end
 	return top
 	end
+
+	local Window = create:Win("Crab Hub")
